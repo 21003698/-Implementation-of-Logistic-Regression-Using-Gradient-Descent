@@ -30,7 +30,7 @@ Create the confusion matrix and find the accuracy score, recall sensitivity and 
 Plot the training set results. 
 
 ## Program:
-```
+~~~
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: challa sandeep
@@ -100,7 +100,7 @@ plt.xlabel("Age")
 plt.ylabel("Estimated Salary")
 plt.legend()
 plt.show()
-
+~~~
 ## Output:
 ![](d1.jpg)
 ![](d2.jpg)
